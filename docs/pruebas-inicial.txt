@@ -1,0 +1,27 @@
+test_01_registrar (tests.test_contrato.Contrato.test_01_registrar) ... ok
+test_02_ids (tests.test_contrato.Contrato.test_02_ids) ... ok
+test_03_estudiante_inexistente (tests.test_contrato.Contrato.test_03_estudiante_inexistente) ... ok
+test_04_tipo_invalido (tests.test_contrato.Contrato.test_04_tipo_invalido) ... ok
+test_05_prioridad_invalida (tests.test_contrato.Contrato.test_05_prioridad_invalida) ... ok
+test_06_campos_vacios (tests.test_contrato.Contrato.test_06_campos_vacios) ... ok
+test_07_cambiar_estado (tests.test_contrato.Contrato.test_07_cambiar_estado) ... ok
+test_08_estado_invalido (tests.test_contrato.Contrato.test_08_estado_invalido) ... ok
+test_09_cambio_inexistente (tests.test_contrato.Contrato.test_09_cambio_inexistente) ... ok
+test_10_asignar (tests.test_contrato.Contrato.test_10_asignar) ... ok
+test_11_responsable_invalido (tests.test_contrato.Contrato.test_11_responsable_invalido) ... ok
+test_12_asignacion_inexistente (tests.test_contrato.Contrato.test_12_asignacion_inexistente) ... ok
+test_13_filtro_estado (tests.test_contrato.Contrato.test_13_filtro_estado) ... ok
+test_14_filtro_prioridad (tests.test_contrato.Contrato.test_14_filtro_prioridad) ... ok
+test_15_busqueda_texto (tests.test_contrato.Contrato.test_15_busqueda_texto) ... ok
+test_16_filtros_combinados (tests.test_contrato.Contrato.test_16_filtros_combinados) ... ok
+test_17_sin_resultados (tests.test_contrato.Contrato.test_17_sin_resultados) ... ok
+test_18_reporte_vacio (tests.test_contrato.Contrato.test_18_reporte_vacio) ... ok
+test_19_reporte_estados (tests.test_contrato.Contrato.test_19_reporte_estados) ... ok
+test_20_persistencia_y_reinicio (tests.test_contrato.Contrato.test_20_persistencia_y_reinicio) ... ok
+test_21_aislamiento_de_resultados (tests.test_contrato.Contrato.test_21_aislamiento_de_resultados) ... ok
+test_22_catalogos_y_unicode (tests.test_contrato.Contrato.test_22_catalogos_y_unicode) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.037s
+
+OK
