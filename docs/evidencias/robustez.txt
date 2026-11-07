@@ -1,0 +1,12 @@
+test_error_de_reemplazo_conserva_archivo (tests.test_refactorizada.Robustez.test_error_de_reemplazo_conserva_archivo) ... ok
+test_esquema_incorrecto (tests.test_refactorizada.Robustez.test_esquema_incorrecto) ... ok
+test_ids_duplicados (tests.test_refactorizada.Robustez.test_ids_duplicados) ... ok
+test_json_corrupto_se_conserva (tests.test_refactorizada.Robustez.test_json_corrupto_se_conserva) ... ok
+test_migracion_desde_inicial (tests.test_refactorizada.Robustez.test_migracion_desde_inicial) ... ok
+test_referencia_invalida (tests.test_refactorizada.Robustez.test_referencia_invalida) ... ok
+test_sustitucion_memoria_por_json (tests.test_refactorizada.Robustez.test_sustitucion_memoria_por_json) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.039s
+
+OK
