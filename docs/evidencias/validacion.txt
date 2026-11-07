@@ -1,0 +1,6 @@
+Compilación Python: OK
+Contrato inicial: 22/22
+Contrato refactorizado: 22/22
+Robustez refactorizada: 7/7
+Comparación CLI: 7/7 pasos idénticos
+No se midió cobertura ni rendimiento.

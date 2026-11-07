@@ -1,0 +1,10 @@
+{
+  "inicial": {
+    "modulos": 1,
+    "lineas_fisicas": 63
+  },
+  "refactorizada": {
+    "modulos": 5,
+    "lineas_fisicas": 247
+  }
+}
